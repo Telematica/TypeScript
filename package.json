@@ -1,5 +1,5 @@
 {
-  "name": "typescript",
+  "name": "typescript-topics",
   "version": "1.0.0",
   "description": "TypeScript Training Topics",
   "main": "index.js",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Telematica/TypeScript#readme",
   "dependencies": {
-    "deep-equal": "^1.0.1"
+    "deep-equal": "^1.0.1",
+    "typescript": "^3.6.0-dev.20190810"
   }
 }
