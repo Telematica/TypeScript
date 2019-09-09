@@ -11,6 +11,6 @@ if (123) { // Will be treated like `true`
 | number                                             | 0 NaN               | any other number     | 
 | null                                               | always              | never                | 
 | undefined                                          | always              | never                | 
-| Any other Object including empty ones like {},[]	 | never               | always               | 
+| Any other Object including empty ones like {},[]   | never               | always               |
 ---------------------------------------------------------------------------------------------------
 */
